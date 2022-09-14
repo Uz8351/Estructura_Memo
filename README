@@ -1,0 +1,34 @@
+
+**************************************
+Gaudeamus igitur iuvenes dum sumus.
+************************************
+     estructura.c
+-----------------------------------     
+Este sencillo programa, consiste en 
+un ejemplo de trato de estructuras apuntadas
+por un puntero, y la llamada de sus elementos.
+Su definición y relación con la memoria,
+mostrando el volcado y su disposición 
+en la misma.
+Se adjunta un Makefile, para poder
+compilarlo a través de esta herramienta,
+aunque tambien se puede realizar directamente
+a través de la consola de linux con el siguiente
+comando gcc:
+
+$ gcc -Wall -o Estru_Memo estructura.c
+
+Teniendo en cuenta que volcado.h debe
+estar en el mismo directorio que
+estructura.c
+El programa se puede utilizar fácilmente
+para el aprendizaje, modificando 
+parámetros y viendo su comportamiento.
++++++++++++++++++++++++++++++++++++++
+Este programa fue realizado en
+la plataforma:
+LINUX Ubuntu 20.04.4 LTS.
+Bajo el standard ANSI-C.
+******************************************
+Hilario Iglesias Martínez.
+----------------------------------------
